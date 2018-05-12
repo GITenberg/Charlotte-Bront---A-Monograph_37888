@@ -1,0 +1,31 @@
+_repo: Charlotte-Bront---A-Monograph_37888
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, T. Wemyss (Thomas Wemyss)
+    aliases:
+    - Reid, Wemyss, Sir
+    - Reid, Thomas Wemyss
+    birthdate: 1842
+    deathdate: 1905
+    gutenberg_agent_id: '39115'
+    url: http://www.gutenberg.org/2009/agents/39115
+description: ''
+gutenberg_issued: '2011-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brontë, Charlotte, 1816-1855'
+- !lcsh 'Brontë family'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- !lcc 'PR'
+title: 'Charlotte Brontë: A Monograph'
+url: http://www.gutenberg.org/ebooks/37888
